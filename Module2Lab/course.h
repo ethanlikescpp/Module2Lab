@@ -1,7 +1,7 @@
 #pragma once
 
-class Course {
-private:
+using namespace std;
 
-public:
+class Course {
+
 };

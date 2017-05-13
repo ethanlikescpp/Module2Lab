@@ -1,4 +1,6 @@
 #include "stdafx.h"
-#include "teacher.h"
+#include <iostream>
+#include "Teacher.h"
 
 using namespace std;
+

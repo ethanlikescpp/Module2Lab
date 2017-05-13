@@ -1,4 +1,9 @@
 #include "stdafx.h"
-#include "course.h"
+#include "Course.h"
 
 using namespace std;
+
+class Course {
+private:
+
+};

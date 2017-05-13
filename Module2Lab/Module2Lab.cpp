@@ -1,8 +1,8 @@
-// Module2Lab.cpp : Defines the entry point for the console application.
-//
-
 #include "stdafx.h"
 #include <iostream>
+#include "Teacher.h"
+#include "Student.h"
+#include "Course.h"
 
 using namespace std;
 
