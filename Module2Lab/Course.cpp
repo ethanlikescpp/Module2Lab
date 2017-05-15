@@ -1,4 +1,5 @@
 #include "stdafx.h"
+#include <iostream>
 #include "Course.h"
 #include "Student.h"
 #include "Teacher.h"
@@ -15,3 +16,10 @@ Course::Course() {
 
 Course::~Course() {
 }
+
+Course::Course(string inputname) {
+	coursename = inputname;
+}
+
+void Course::DisplayName() {
+	cout << "Name of course: " << coursename << endl;

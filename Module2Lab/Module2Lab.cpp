@@ -9,7 +9,9 @@ using namespace std;
 
 int main()
 {
-	Course *math = new Course();
+	Course *math = new Course("Science");
+	math->DisplayName();
+
     return 0;
 }
 
